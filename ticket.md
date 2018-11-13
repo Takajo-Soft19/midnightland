@@ -21,7 +21,7 @@
 
 
 
-<!-- <table class="toumei" border="1" align="center"> -->
+<table class="toumei" border="1" align="center">
  <tr> 
 
  <caption>料金表</caption>
@@ -67,7 +67,7 @@
     </tr> 
 
 
- <!-- </table>  -->
+ </table> 
 </div>
 
 </center>  
