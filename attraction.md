@@ -13,6 +13,12 @@
     <img src="kisetu.PNG" alt="季節にあわせたアトラクション" />
    </div>
  
+   <br>
+   <div class="textcenter">
+    <img src="yomawari.PNG" alt="夜回り" />
+   </div
+   
+ 
   </center>
   
   
