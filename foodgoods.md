@@ -3,6 +3,8 @@
   <link rel="stylesheet" type="text/css" href="foodsgoods.css">
   
   <body>
+  </body>
+  </html>
   
  <span style="color:#ffffff;">
 
@@ -29,14 +31,4 @@ MNL限定のタオルです。様々な園内のお化けがプリントされ�
 イカスミを使用した真っ黒あんかけチャーハン。インスタ映え間違いなし
 
 </span>
-  
-  <div id="footer"> 
-  
-　 このホームページは、ソフトウェア工学の授業の一環で作成されたものでありフィクションです。
-  
-  </div>
-   
-  </body>
-  
-</html>
-
+ 
