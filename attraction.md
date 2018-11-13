@@ -16,7 +16,7 @@
    <br>
    <div class="textcenter">
     <img src="yomawari.PNG" alt="夜回り" />
-   </div
+   </div>
    
  
   </center>
