@@ -15,8 +15,10 @@
 
 
 <body> 
+ <center>
  <div>
  <h1>TICKET</h1>
+
 
 
  <table class="toumei" border="1" align="center">
@@ -68,7 +70,7 @@
   </table>  
 </div>
 
-  
+</center>  
 
 
 </body> 
