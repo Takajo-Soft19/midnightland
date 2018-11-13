@@ -1,12 +1,4 @@
-<html>
-  
-  <link rel="stylesheet" type="text/css" href="foodsgoods.css">
-  
-  <body>
- </body>
- </html>
-  
- <span style="color:#ffffff;">
+
 
 ## フード＆グッズ
 
